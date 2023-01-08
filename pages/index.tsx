@@ -1,15 +1,8 @@
-import type {NextPage} from 'next'
 import Head from 'next/head'
-import Image from 'next/image'
-import {Container, Card, Row, Text, Grid, Spacer} from "@nextui-org/react";
-import styles from '../styles/Home.module.css'
-import Menu from "./components/menu";
-import Item from "./components/item";
-import Banner from './components/banner';
-import {useState} from "react";
-import {resources, site, Site} from "./api";
+import {site,} from "./api";
+import App from './components/app';
 
-const Home: NextPage = () => {
+export default function Home() {
     return (
         <>
             <Head>
@@ -17,37 +10,7 @@ const Home: NextPage = () => {
                 <link rel="icon" href={site.favicon}/>
                 <title>{site.seo.title}</title>
             </Head>
-            <Menu/>
-            <Banner/>
-
-            <Container lg css={{mt: '$10'}}>
-                <Grid.Container gap={2}>
-                    {
-                        resources.map((resource, i) => {
-                            return (
-                                <>
-                                    <Grid xs={12}>
-                                        <Text weight="black" size={30}>
-                                            {resource.title}
-                                        </Text>
-                                    </Grid>
-                                    {
-                                        resource.site.map((site, index) => {
-                                            return (
-                                                <Grid xs={12} md={6} lg={4} key={index}>
-                                                    <Item {...site}/>
-                                                </Grid>
-                                            )
-                                        })
-                                    }
-                                </>
-                            )
-                        })
-                    }
-                </Grid.Container>
-            </Container>
+            <App/>
         </>
     )
 }
-
-export default Home
