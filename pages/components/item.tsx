@@ -1,15 +1,16 @@
 import { Card, Grid, Text, Link } from "@nextui-org/react";
 import {ResourceItem} from "../api";
+import Image from 'next/image'
 
 export default function Item(item: ResourceItem) {
     return (
         <Card css={{ p: "$6", mw: "400px" }}>
             <Card.Header>
-                <img
+                <Image
                     alt={item.title}
                     src={item.logo}
-                    width="34px"
-                    height="34px"
+                    width="34"
+                    height="34"
                 />
                 <Grid.Container css={{ pl: "$6" }}>
                     <Grid xs={12}>

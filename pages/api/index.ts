@@ -11,7 +11,7 @@ export interface ResourceItem {
   title: string;
   description?: string;
   url: string;
-  logo?: string;
+  logo: string;
 }
 export interface Resource {
   title: string;

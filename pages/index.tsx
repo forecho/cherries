@@ -23,7 +23,7 @@ const Home: NextPage = () => {
             <Container lg css={{mt: '$10'}}>
                 <Grid.Container gap={2}>
                     {
-                        resources.map((resource, index) => {
+                        resources.map((resource, i) => {
                             return (
                                 <>
                                     <Grid xs={12}>
@@ -34,7 +34,7 @@ const Home: NextPage = () => {
                                     {
                                         resource.site.map((site, index) => {
                                             return (
-                                                <Grid xs={12} md={6} lg={4}>
+                                                <Grid xs={12} md={6} lg={4} key={index}>
                                                     <Item {...site}/>
                                                 </Grid>
                                             )
