@@ -1,0 +1,638 @@
+[
+  {
+    "title": "Icon",
+    "icon": "https://afterwork-design.github.io/castalia/images/menu/icon.svg",
+    "site": [
+      {
+        "title": "IconPark",
+        "description": "免费，规范、统一、多风格切换",
+        "url": "https://iconpark.oceanengine.com/home",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/iconpark.jpg"
+      },
+      {
+        "title": "Iconfont",
+        "description": "免费，中文，图标数量丰富，包含插画资源",
+        "url": "https://www.iconfont.cn",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/iconfont.png"
+      },
+      {
+        "title": "Ikonate",
+        "description": "免费，样式统一，可调大小、粗细、颜色等参数",
+        "url": "https://ikonate.com",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/ikonate.jpg"
+      },
+      {
+        "title": "Remix Icon",
+        "description": "免费，精致统一的开源图标",
+        "url": "https://remixicon.com",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/remix.jpg"
+      },
+      {
+        "title": "Iconscout",
+        "description": "精美丰富，包含很多冷门类型",
+        "url": "https://iconscout.com",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/iconscout.jpg"
+      },
+      {
+        "title": "ICONS8",
+        "description": "多风格",
+        "url": "https://icons8.com",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/icons8.jpg"
+      },
+      {
+        "title": "ICONFINDER",
+        "description": "类型丰富的图标库",
+        "url": "https://www.iconfinder.com",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/iconfinder.jpg"
+      },
+      {
+        "title": "Emoji XD",
+        "description": "线上Emoji百科全书，支持关键词搜索",
+        "url": "https://emojixd.com",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/emojixd.jpg"
+      },
+      {
+        "title": "seeklogo",
+        "description": "500000+ 个品牌 logo 图片，包含 png 和矢量格式",
+        "url": "https://seeklogo.com",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/seeklogo.png"
+      }
+    ]
+  },
+  {
+    "title": "插画",
+    "icon": "https://afterwork-design.github.io/castalia/images/menu/illustration.svg",
+    "site": [
+      {
+        "title": "unDraw",
+        "description": "免费，矢量插画，可在线调节颜色",
+        "url": "https://undraw.co/illustrations",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/undraw.jpg"
+      },
+      {
+        "title": "Blush",
+        "description": "色彩鲜明的插画，有 figma 和 sketch 插件",
+        "url": "https://blush.design/zh-CN",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/blush.jpg"
+      },
+      {
+        "title": "Free Illustrations",
+        "description": "免费高质量矢量插画资源",
+        "url": "https://sketchvalley.com/",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/sv.jpg"
+      },
+      {
+        "title": "Illustrationx",
+        "description": "国外的插画平台，世界各地插画师的作品",
+        "url": "https://www.illustrationx.com",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/illustrationx.jpg"
+      },
+      {
+        "title": "Folio",
+        "description": "插画机构，包含从崭露头角的艺术家到行业偶像的作品",
+        "url": "https://folioart.co.uk",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/folioart.jpg"
+      },
+      {
+        "title": "涂鸦王国",
+        "description": "国内插画平台",
+        "url": "https://www.gracg.com",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/gracg.jpg"
+      },
+      {
+        "title": "404 Illustrations",
+        "description": "有趣的404插画",
+        "url": "https://www.kapwing.com/404-illustrations",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/404-illustrations.jpg"
+      }
+    ]
+  },
+  {
+    "title": "色彩",
+    "icon": "https://afterwork-design.github.io/castalia/images/menu/color.svg",
+    "site": [
+      {
+        "title": "ColorDrop",
+        "description": "每组4种颜色",
+        "url": "https://colordrop.io",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/colordrop.png"
+      },
+      {
+        "title": "中国色",
+        "description": "中国传统色",
+        "url": "http://zhongguose.com",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/zhonguose.jpg"
+      },
+      {
+        "title": "Nippon Colors",
+        "description": "日本传统色",
+        "url": "https://nipponcolors.com",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/nippon-colors.jpg"
+      },
+      {
+        "title": "WebGradients",
+        "description": "优美的渐变色",
+        "url": "https://webgradients.com",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/webgradients.jpg"
+      },
+      {
+        "title": "Color Claim",
+        "description": "颜值很高的色彩网站",
+        "url": "https://vanschneider.com/colors",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/color-claim.jpg"
+      },
+      {
+        "title": "Picular",
+        "description": "可通过关键词搜索对应配色",
+        "url": "https://picular.co/",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/picular.png"
+      },
+      {
+        "title": "Grabient",
+        "description": "渐变色网站，支持在每组渐变色上调节色值、颜色位置、渐变角度和添加颜色",
+        "url": "https://www.grabient.com/",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/grabient.png"
+      },
+      {
+        "title": "CoolHue",
+        "description": "漂亮的渐变色网站",
+        "url": "https://webkul.github.io/coolhue/",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/coolhue.png"
+      },
+      {
+        "title": "ColorSpace",
+        "description": "功能强大的配色网站，输入一个颜色，自动生成不同应用场景的配色",
+        "url": "https://mycolor.space/",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/colorspace.png"
+      },
+      {
+        "title": "BrandColors",
+        "description": "各大公司品牌色",
+        "url": "https://brandcolors.net/",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/brandcolors.png"
+      },
+      {
+        "title": "Mesh Gradients",
+        "description": "不规则渐变",
+        "url": "https://products.ls.graphics/mesh-gradients/",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/mesh-gradients.png"
+      },
+      {
+        "title": "Flatcolorpicker",
+        "description": "按色系分类的颜色，支持多种色彩模式",
+        "url": "https://www.flatuicolorpicker.com/",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/flatuicolorpicker.png"
+      },
+      {
+        "title": "Open Color",
+        "description": "13个色系，每种色系分10个明度",
+        "url": "https://yeun.github.io/open-color/",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/opencolor.png"
+      },
+      {
+        "title": "ColorBox",
+        "description": "自动生成色彩梯度",
+        "url": "https://colorbox.io/",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/colorbox.png"
+      },
+      {
+        "title": "Color Leap",
+        "description": "复古配色网站",
+        "url": "https://colorleap.app/home",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/colorleap.png"
+      },
+      {
+        "title": "KaKa",
+        "description": "四色色板、渐变色、阶梯色",
+        "url": "https://afterwork-design.github.io/color-card/",
+        "logo": "https://afterwork-design.github.io/color-card/logo1.png"
+      }
+    ]
+  },
+  {
+    "title": "图片视频",
+    "icon": "https://afterwork-design.github.io/castalia/images/menu/picture.svg",
+    "site": [
+      {
+        "title": "Unsplash",
+        "description": "免费，由世界各地创作者提供的高质量图片",
+        "url": "https://unsplash.com",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/unsplash.jpg"
+      },
+      {
+        "title": "Pexels",
+        "description": "免费，包括图片和视频",
+        "url": "https://www.pexels.com",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/pexels.jpg"
+      },
+      {
+        "title": "Pixabay",
+        "description": "免费，超过 250 万张高质量的作品，包括图片、视频和音乐",
+        "url": "https://pixabay.com",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/pixabay.jpg"
+      },
+      {
+        "title": "SplitShire",
+        "description": "免费，精美独特的图片库",
+        "url": "https://www.splitshire.com",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/splitshire.jpg"
+      },
+      {
+        "title": "StolSnap",
+        "description": "免费，每天都更新图片",
+        "url": "https://stocksnap.io",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/stocksnap.jpg"
+      },
+      {
+        "title": "IMGBIN",
+        "description": "免费，由设计师创建的数百万个透明 PNG 文件",
+        "url": "https://imgbin.com",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/imgbin.jpg"
+      },
+      {
+        "title": "Hippopx",
+        "description": "免费，各种摄影作品",
+        "url": "https://www.hippopx.com",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/hippopx.jpg"
+      },
+      {
+        "title": "RESHOT",
+        "description": "免费图标、插图和照片，可商用",
+        "url": "https://www.reshot.com/",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/reshot.png"
+      },
+      {
+        "title": "POND5",
+        "description": "公共领域，有图片，音乐，模型等数千个历史媒体文件",
+        "url": "https://www.pond5.com/public-domain",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/pond5.png"
+      },
+      {
+        "title": "Streetwill",
+        "description": "免费高质量优质图片",
+        "url": "http://streetwill.co",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/streetwill.png"
+      },
+      {
+        "title": "ISO",
+        "description": "数以千计的免费高分辨率 Stock CC0 图片和视频",
+        "url": "https://isorepublic.com/",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/iso.png"
+      },
+      {
+        "title": "PR模板网",
+        "description": "Premiere 模板素材等资源下载网站",
+        "url": "https://prmuban.com",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/premiere.png"
+      }
+    ]
+  },
+  {
+    "title": "阅读",
+    "icon": "https://afterwork-design.github.io/castalia/images/menu/book.svg",
+    "site": [
+      {
+        "title": "Medium",
+        "description": "国外的优质博客平台",
+        "url": "https://medium.com",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/medium.jpg"
+      },
+      {
+        "title": "SaltTiger",
+        "description": "每天一本编程书，每天进步一点点",
+        "url": "https://salttiger.com",
+        "logo": "https://afterwork-design.github.io/castalia/castalia-s.png"
+      },
+      {
+        "title": "微信读书",
+        "description": "支持多平台的免费读书软件",
+        "url": "https://weread.qq.com",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/weread.png"
+      },
+      {
+        "title": "NN Group",
+        "description": "传播专业的用户体验知识",
+        "url": "https://www.nngroup.com",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/nng.jpg"
+      },
+      {
+        "title": "Sidebar",
+        "description": "每日更新最佳设计链接",
+        "url": "https://sidebar.io",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/sidebar.png"
+      },
+      {
+        "title": "Panda",
+        "description": "资讯合集",
+        "url": "https://app.usepanda.com/#/",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/panda.png"
+      }
+    ]
+  },
+  {
+    "title": "工具",
+    "icon": "https://afterwork-design.github.io/castalia/images/menu/tool.svg",
+    "site": [
+      {
+        "title": "TinyPNG",
+        "description": "高质量图片压缩网站",
+        "url": "https://tinypng.com",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/tinypng.jpg"
+      },
+      {
+        "title": "docsmall",
+        "description": "在线免费图片、PDF压缩工具",
+        "url": "https://docsmall.com",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/docsmall.jpg"
+      },
+      {
+        "title": "Canva",
+        "description": "提供优质模板，快速制作各种封面",
+        "url": "https://www.canva.cn",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/canva.jpg"
+      },
+      {
+        "title": "Polarr",
+        "description": "功能强大的修图工具",
+        "url": "https://photoeditor.polarr.com",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/polarr.jpg"
+      },
+      {
+        "title": "Contrast Ratio",
+        "description": "轻松计算色彩对比度，帮助通过WCAG",
+        "url": "https://contrast-ratio.com",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/contrast-ratio.jpg"
+      },
+      {
+        "title": "WeaveSilk",
+        "description": "在线制作酷炫背景",
+        "url": "http://weavesilk.com",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/weavesilk.jpg"
+      },
+      {
+        "title": "CodePen",
+        "description": "在线代码编辑器和学习环境，包含许多 Web 设计相关资源",
+        "url": "https://codepen.io",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/codepen.png"
+      },
+      {
+        "title": "即时设计",
+        "description": "可实时协作的专业UI设计工具",
+        "url": "https://js.design",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/js-design.png"
+      },
+      {
+        "title": "中国地图矢量图",
+        "description": "支持多种数据格式，包括 json、svg 等，区域最小可拆分至区县",
+        "url": "https://datav.aliyun.com/portal/school/atlas/area_selector",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/datav.png"
+      },
+      {
+        "title": "Excalidraw",
+        "description": "手绘风格的在线白板工具",
+        "url": "https://excalidraw.com/",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/excalidraw.png"
+      },
+      {
+        "title": "Magic Eraser",
+        "description": "快速消除图片中杂物的在线工具",
+        "url": "https://www.magiceraser.io/",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/magiceraser.png"
+      },
+      {
+        "title": "Screen Guru",
+        "description": "在线截图美化工具，输入 URL, 生成干净的浏览器模型",
+        "url": "https://screen.guru",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/screen-guru.png"
+      },
+      {
+        "title": "FabPic",
+        "description": "在线截图美化工具",
+        "url": "https://www.fabpic.app",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/fabpic.png"
+      },
+      {
+        "title": "Screenzy",
+        "description": "在线截图美化工具，支持 URL、本地图片和随机的 Unsplash 图片",
+        "url": "https://screenzy.io/#",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/screenzy.png"
+      },
+      {
+        "title": "Screely",
+        "description": "将截图生成浏览器模型",
+        "url": "https://www.screely.com/",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/screely.png"
+      }
+    ]
+  },
+  {
+    "title": "英语学习",
+    "icon": "https://afterwork-design.github.io/castalia/images/menu/english.svg",
+    "site": [
+      {
+        "title": "BBC Learning English",
+        "description": "BBC 为世界各地的学习者提供免费的音频、视频和文本材料",
+        "url": "https://www.bbc.co.uk/learningenglish",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/bbc.png"
+      },
+      {
+        "title": "VOA Learning English",
+        "description": "美国之音 VOA 为全球数百万英语学习者提供的多媒体新闻和信息来源",
+        "url": "https://learningenglish.voanews.com",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/voa.png"
+      },
+      {
+        "title": "SpeechAce",
+        "description": "口语学习网站",
+        "url": "https://www.vocabulary.com",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/speechace.png"
+      },
+      {
+        "title": "Vocabulary",
+        "description": "词汇学习网站",
+        "url": "https://www.vocabulary.com",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/vocabulary.png"
+      },
+      {
+        "title": "English Vocabulary Test",
+        "description": "词汇量测试网站",
+        "url": "https://preply.com/en/learn/english/test-your-vocab",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/preply.png"
+      },
+      {
+        "title": "QuillBot",
+        "description": "写作辅助",
+        "url": "https://quillbot.com",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/quillbot.png"
+      },
+      {
+        "title": "Grammarly",
+        "description": "写作辅助",
+        "url": "https://www.grammarly.com",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/grammarly.png"
+      },
+      {
+        "title": "ESLnotes",
+        "description": "英语学习者电影指南",
+        "url": "https://www.eslnotes.com",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/eslnotes.png"
+      },
+      {
+        "title": "DeepL",
+        "description": "翻译器",
+        "url": "https://www.deepl.com/translator",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/deepl.png"
+      },
+      {
+        "title": "Online Etymology Dictionary",
+        "description": "在线词源词典",
+        "url": "https://www.etymonline.com",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/etymonline.png"
+      }
+    ]
+  },
+  {
+    "title": "网页设计",
+    "icon": "https://afterwork-design.github.io/castalia/images/menu/web-design.svg",
+    "site": [
+      {
+        "title": "Glassmorphism Generator",
+        "description": "在线调节生成磨砂玻璃效果，可直接复制CSS",
+        "url": "https://hype4.academy/tools/glassmorphism-generator",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/glassmorphism.png"
+      },
+      {
+        "title": "Neumorphism",
+        "description": "在线调节生成新拟态效果，自动生成CSS",
+        "url": "https://neumorphism.io/#e0e0e0",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/neumorphism.png"
+      },
+      {
+        "title": "Animate CSS",
+        "description": "一个开源的 css 动画库",
+        "url": "https://animate.style/",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/animate-css.jpg"
+      },
+      {
+        "title": "Uiverse",
+        "description": "按钮样式库，也包含复选框、开关、卡片等样式",
+        "url": "https://uiverse.io/",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/uiverse.jpg"
+      },
+      {
+        "title": "useAnimations",
+        "description": "图标按钮动效",
+        "url": "https://useanimations.com/index.html#explore",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/useanimations.png"
+      }
+    ]
+  },
+  {
+    "title": "个人网站",
+    "icon": "https://afterwork-design.github.io/castalia/images/menu/personal-website.svg",
+    "site": [
+      {
+        "title": "Itsacat",
+        "description": "葡萄牙插画师，擅长处理图形和色彩，制作有趣动画",
+        "url": "https://itsacatstudio.com",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/itsacats.jpg"
+      },
+      {
+        "title": "Pengfei Wang",
+        "description": "程序员",
+        "url": "https://pengfeixc.com",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/pengfeiw.jpg"
+      },
+      {
+        "title": "Alice Lee",
+        "description": "独立插画师",
+        "url": "https://www.byalicelee.com",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/alice-lee.jpg"
+      },
+      {
+        "title": "Chloe Takahashi",
+        "description": "日本插画师",
+        "url": "https://chloetakahashi.net",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/chloe-takahashi.jpg"
+      },
+      {
+        "title": "Tang Weijuan",
+        "description": "设计师",
+        "url": "https://tangweijuan.com",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/tangweijuan.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Mockup",
+    "icon": "https://afterwork-design.github.io/castalia/images/menu/mockup.svg",
+    "site": [
+      {
+        "title": "c.mockup",
+        "description": "用于场景创建的模型系统",
+        "url": "https://mockup.ceacle.com",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/cmockup.jpg"
+      },
+      {
+        "title": "MockuPhone",
+        "description": "免费，在线生成纯白背景模型效果",
+        "url": "https://mockuphone.com",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/mockuphone.jpg"
+      },
+      {
+        "title": "Mockups Design",
+        "description": "免费，优质模型下载",
+        "url": "https://mockups-design.com",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/mockups-design.jpg"
+      }
+    ]
+  },
+  {
+    "title": "设计体系",
+    "icon": "https://afterwork-design.github.io/castalia/images/menu/design-system.svg",
+    "site": [
+      {
+        "title": "Ant Design",
+        "description": "企业级产品设计体系",
+        "url": "https://ant.design/index-cn",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/ant-design.jpg"
+      },
+      {
+        "title": "Element Plus",
+        "description": "基于 Vue 3, 面向设计师和开发者的组件库",
+        "url": "https://element-plus.org/zh-CN",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/element-plus.jpg"
+      },
+      {
+        "title": "Figma Design Systems",
+        "description": "Figma 设计体系",
+        "url": "https://www.designsystems.com",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/figma-design-systems.jpg"
+      },
+      {
+        "title": "Material Design",
+        "description": "谷歌设计规范",
+        "url": "https://material.io/design",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/material-design.jpg"
+      },
+      {
+        "title": "Fluent Design System",
+        "description": "微软设计规范",
+        "url": "https://www.microsoft.com/design/fluent/#",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/fluent.jpg"
+      },
+      {
+        "title": "Apple Developer",
+        "description": "苹果设计规范",
+        "url": "https://developer.apple.com/design/human-interface-guidelines",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/apple.jpg"
+      },
+      {
+        "title": "HarmonyOS",
+        "description": "鸿蒙设计规范",
+        "url": "https://developer.harmonyos.com/cn/design",
+        "logo": "https://afterwork-design.github.io/castalia/images/site/harmonyos.jpg"
+      }
+    ]
+  }
+]
