@@ -24,7 +24,7 @@ export default function Content() {
                                 {
                                     resource.site.map((site, index) => {
                                         return (
-                                            <Grid xs={12} md={6} lg={4} key={index}>
+                                            <Grid xs={12} sm={6} md={4} lg={3} key={index}>
                                                 <Item {...site}/>
                                             </Grid>
                                         )
