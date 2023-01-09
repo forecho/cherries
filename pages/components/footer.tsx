@@ -10,7 +10,7 @@ export default function Footer() {
                         forecho
                     </Link>
                 </Text>
-                &#20;On&#20;
+                &#20;on&#20;
                 <Text b>
                     <Link href="https://github.com/forecho/cherries" target="_blank" rel="noopener noreferrer">
                         Github
