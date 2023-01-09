@@ -1,5 +1,8 @@
-import { Navbar, Button, Link, Text, useTheme } from "@nextui-org/react";
+import {Navbar, Button, Link, Text} from "@nextui-org/react";
+import {NavItem, site} from "../api";
 import Layout from "./layout";
+import {Image} from '@nextui-org/react';
+import HeartIcon from "./heartIcon";
 
 export default function App() {
     const color = 'error';
@@ -8,25 +11,33 @@ export default function App() {
     return (
         <Layout>
             <Navbar variant="sticky">
-                <Navbar.Brand>
-                    <Text b color="inherit" hideIn="xs">
-                        ACME
-                    </Text>
-                </Navbar.Brand>
+                <Link href="/" color="inherit">
+                    <Navbar.Brand>
+                        {
+                            (site.logo) &&
+                            <Image src={site.logo} alt={site.seo.title} width={32} height={32}/>
+                        }
+                        <Text b color="inherit" hideIn="xs">
+                            {site.seo.title}
+                        </Text>
+                    </Navbar.Brand>
+                </Link>
                 <Navbar.Content activeColor={color} hideIn="xs" variant={variant}>
-                    <Navbar.Link href="#">Features</Navbar.Link>
-                    <Navbar.Link isActive href="#">Customers</Navbar.Link>
-                    <Navbar.Link href="#">Pricing</Navbar.Link>
-                    <Navbar.Link href="#">Company</Navbar.Link>
+                    {
+                        site.navItems.map((item: NavItem, index: number) => {
+                            return (
+                                <Navbar.Link href={item.url} key={index}>{item.name}</Navbar.Link>
+                            )
+                        })
+                    }
                 </Navbar.Content>
                 <Navbar.Content>
-                    <Navbar.Link color="inherit" href="#">
-                        Login
-                    </Navbar.Link>
                     <Navbar.Item>
-                        <Button auto flat as={Link} color={color} href="#">
-                            Sign Up
-                        </Button>
+                        <Link href="https://github.com/sponsors/forecho" target="_blank" rel="noopener noreferrer">
+                            <Button auto color={color} href="#" icon={<HeartIcon/>}>
+                                Sponsor
+                            </Button>
+                        </Link>
                     </Navbar.Item>
                 </Navbar.Content>
             </Navbar>

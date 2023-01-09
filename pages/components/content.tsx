@@ -1,23 +1,25 @@
 import Banner from "./banner";
-import {Container, Card, Text, Grid} from "@nextui-org/react";
-import { resources } from "../api";
+import {Text, Grid, Link} from "@nextui-org/react";
+import {resources} from "../api";
 import Item from "./item";
-import { Box } from "./box";
+import {Box} from "./box";
+import Footer from "./footer";
 
-export default function Content(){
+export default function Content() {
     return (
-    <Box css={{px: "$12", mt: "$8", "@xsMax": {px: "$10"}}}>
-        <Banner/>
-        <Container lg css={{mt: '$10'}}>
+        <Box css={{px: "$12", mt: "$8", "@xsMax": {px: "$10"}}}>
+            <Banner/>
             <Grid.Container gap={2}>
                 {
                     resources.map((resource, i) => {
                         return (
                             <>
-                                <Grid xs={12}>
-                                    <Text weight="black" size={30}>
-                                        {resource.title}
-                                    </Text>
+                                <Grid xs={12} id={resource.title} className="title">
+                                    <Link href={`#${resource.title}`}>
+                                        <Text h3>
+                                            {resource.title}
+                                        </Text>
+                                    </Link>
                                 </Grid>
                                 {
                                     resource.site.map((site, index) => {
@@ -32,8 +34,8 @@ export default function Content(){
                         )
                     })
                 }
+                <Footer/>
             </Grid.Container>
-        </Container>
-    </Box>
+        </Box>
     );
 }

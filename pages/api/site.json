@@ -1,8 +1,31 @@
 {
-  "keywords": "导航,美股",
-  "favicon": "https://www.castalia.com/favicon.ico",
+  "logo": "",
+  "keywords": "设计师，资源导航",
+  "favicon": "https://afterwork-design.github.io/castalia/castalia-s.png",
   "seo": {
-    "title": "Castalia",
+    "title": "Cherries",
     "description": "最全的网站资源"
-  }
+  },
+  "banner": {
+    "title": "一个资源导航网站",
+    "subtitle": "精选国内外优质网站， 让每个人都能找到自己需要的资源"
+  },
+  "navItems": [
+    {
+      "name": "首页",
+      "url": "#"
+    },
+    {
+      "name": "工具",
+      "url": "#工具"
+    },
+    {
+      "name": "英语学习",
+      "url": "#英语学习"
+    },
+    {
+      "name": "Github",
+      "url": "https://github.com/forecho/cherries"
+    }
+  ]
 }
