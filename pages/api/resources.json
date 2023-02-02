@@ -47,7 +47,7 @@
       },
       {
         "title": "Emoji XD",
-        "description": "线上Emoji百科全书，支持关键词搜索",
+        "description": "线上 Emoji 百科全书，支持关键词搜索",
         "url": "https://emojixd.com",
         "logo": "https://afterwork-design.github.io/castalia/images/site/emojixd.jpg"
       },
@@ -101,7 +101,7 @@
       },
       {
         "title": "404 Illustrations",
-        "description": "有趣的404插画",
+        "description": "有趣的 404 插画",
         "url": "https://www.kapwing.com/404-illustrations",
         "logo": "https://afterwork-design.github.io/castalia/images/site/404-illustrations.jpg"
       }
@@ -113,7 +113,7 @@
     "site": [
       {
         "title": "ColorDrop",
-        "description": "每组4种颜色",
+        "description": "每组 4 种颜色",
         "url": "https://colordrop.io",
         "logo": "https://afterwork-design.github.io/castalia/images/site/colordrop.png"
       },
@@ -185,7 +185,7 @@
       },
       {
         "title": "Open Color",
-        "description": "13个色系，每种色系分10个明度",
+        "description": "13 个色系，每种色系分 10 个明度",
         "url": "https://yeun.github.io/open-color/",
         "logo": "https://afterwork-design.github.io/castalia/images/site/opencolor.png"
       },
@@ -280,7 +280,7 @@
         "logo": "https://afterwork-design.github.io/castalia/images/site/iso.png"
       },
       {
-        "title": "PR模板网",
+        "title": "PR 模板网",
         "description": "Premiere 模板素材等资源下载网站",
         "url": "https://prmuban.com",
         "logo": "https://afterwork-design.github.io/castalia/images/site/premiere.png"
@@ -341,7 +341,7 @@
       },
       {
         "title": "docsmall",
-        "description": "在线免费图片、PDF压缩工具",
+        "description": "在线免费图片、PDF 压缩工具",
         "url": "https://docsmall.com",
         "logo": "https://afterwork-design.github.io/castalia/images/site/docsmall.jpg"
       },
@@ -359,7 +359,7 @@
       },
       {
         "title": "Contrast Ratio",
-        "description": "轻松计算色彩对比度，帮助通过WCAG",
+        "description": "轻松计算色彩对比度，帮助通过 WCAG",
         "url": "https://contrast-ratio.com",
         "logo": "https://afterwork-design.github.io/castalia/images/site/contrast-ratio.jpg"
       },
@@ -377,7 +377,7 @@
       },
       {
         "title": "即时设计",
-        "description": "可实时协作的专业UI设计工具",
+        "description": "可实时协作的专业 UI 设计工具",
         "url": "https://js.design",
         "logo": "https://afterwork-design.github.io/castalia/images/site/js-design.png"
       },
@@ -444,7 +444,7 @@
       {
         "title": "SpeechAce",
         "description": "口语学习网站",
-        "url": "https://www.vocabulary.com",
+        "url": "https://www.speechace.com/",
         "logo": "https://afterwork-design.github.io/castalia/images/site/speechace.png"
       },
       {
@@ -497,13 +497,13 @@
     "site": [
       {
         "title": "Glassmorphism Generator",
-        "description": "在线调节生成磨砂玻璃效果，可直接复制CSS",
+        "description": "在线调节生成磨砂玻璃效果，可直接复制 CSS",
         "url": "https://hype4.academy/tools/glassmorphism-generator",
         "logo": "https://afterwork-design.github.io/castalia/images/site/glassmorphism.png"
       },
       {
         "title": "Neumorphism",
-        "description": "在线调节生成新拟态效果，自动生成CSS",
+        "description": "在线调节生成新拟态效果，自动生成 CSS",
         "url": "https://neumorphism.io/#e0e0e0",
         "logo": "https://afterwork-design.github.io/castalia/images/site/neumorphism.png"
       },
